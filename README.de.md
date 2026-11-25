@@ -77,6 +77,30 @@ GLX Media Android TV ist kostenlos. Lizenz und Testzeit gibt es nur am GLX Media
 
 ---
 
+## 📸 Überblick & Screenshots
+
+### 1️⃣ Startseite mit Bibliotheken und Weiterschauen
+
+<p align="center"><img src="screenshots/01-start.jpg" alt="Startseite mit Bibliotheken und Weiterschauen" width="850"></p>
+
+### 2️⃣ Musik-Bibliothek mit Kacheln (helles Design)
+
+<p align="center"><img src="screenshots/02-music.jpg" alt="Musik-Bibliothek mit Kacheln (helles Design)" width="850"></p>
+
+### 3️⃣ Dashboard mit Server, Bibliotheken und Aufgaben
+
+<p align="center"><img src="screenshots/03-dashboard.jpg" alt="Dashboard mit Server, Bibliotheken und Aufgaben" width="850"></p>
+
+### 4️⃣ Bibliotheken und Hauptordner verwalten
+
+<p align="center"><img src="screenshots/04-libraries.jpg" alt="Bibliotheken und Hauptordner verwalten" width="850"></p>
+
+### 5️⃣ 12 Designs und mehrere Icon-Sets
+
+<p align="center"><img src="screenshots/05-design-icons.jpg" alt="12 Designs und mehrere Icon-Sets" width="850"></p>
+
+---
+
 ## ✨ Funktionen
 
 - 🚀 **Für den Fernseher gemacht:** Große Kacheln, komplett mit der Fernbedienung bedienbar.

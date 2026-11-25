@@ -77,6 +77,30 @@ GLX Media Android TV is free. Licence and trial only apply to GLX Media Server. 
 
 ---
 
+## 📸 Overview & Screenshots
+
+### 1️⃣ Home screen with libraries and Continue watching
+
+<p align="center"><img src="screenshots/01-start.jpg" alt="Home screen with libraries and Continue watching" width="850"></p>
+
+### 2️⃣ Music library with cover tiles (light design)
+
+<p align="center"><img src="screenshots/02-music.jpg" alt="Music library with cover tiles (light design)" width="850"></p>
+
+### 3️⃣ Dashboard with server, libraries and tasks
+
+<p align="center"><img src="screenshots/03-dashboard.jpg" alt="Dashboard with server, libraries and tasks" width="850"></p>
+
+### 4️⃣ Manage libraries and main folders
+
+<p align="center"><img src="screenshots/04-libraries.jpg" alt="Manage libraries and main folders" width="850"></p>
+
+### 5️⃣ 12 designs and several icon sets
+
+<p align="center"><img src="screenshots/05-design-icons.jpg" alt="12 designs and several icon sets" width="850"></p>
+
+---
+
 ## ✨ Features
 
 - 🚀 **Made for the TV:** Large tiles, fully usable with the TV remote.
